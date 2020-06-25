@@ -1,0 +1,95 @@
+* {
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+body {
+  scroll-behavior: smooth;
+}
+
+.app {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.app .logo {
+  width: 15%;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+.app .name {
+  opacity: 0.268;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -60%);
+          transform: translate(-50%, -60%);
+  overflow: visible;
+  width: 50%;
+  color: black;
+}
+
+.app .desc {
+  position: absolute;
+  left: 50%;
+  top: 80%;
+  text-align: center;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  overflow: visible;
+  margin-top: -45.5px;
+  color: black;
+}
+
+#title {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+#title img {
+  width: 30%;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+#scrollbar {
+  width: 100%;
+  height: 50px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
+  background: blue;
+}
+
+#footer {
+  top: 500%;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+#footer .logo {
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  width: 15vw;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+#footer a img {
+  position: absolute;
+  top: 70%;
+}
+/*# sourceMappingURL=style.css.map */

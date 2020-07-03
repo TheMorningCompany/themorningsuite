@@ -1,100 +1,29 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   height="349"
-   width="262"
-   id="svg86"
-   version="1.1"
-   viewBox="529.511 412.042 262 348.99999"
-   class="Path_232_ba">
-  <metadata
-     id="metadata92">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs90" />
-  <linearGradient
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(1.6480289,0,0,0.60678546,70.303456,0.331769)"
-     y2="738.46088"
-     y1="718.65961"
-     x2="373.24875"
-     x1="451.87137"
-     spreadMethod="pad"
-     id="Path_232_ba">
-    <stop
-       id="stop65"
-       stop-opacity="1"
-       stop-color="#52c743"
-       offset="0.0012" />
-    <stop
-       id="stop67"
-       stop-opacity="1"
-       stop-color="#009b73"
-       offset="1" />
-  </linearGradient>
-  <path
-     style="fill:url(#Path_232_ba)"
-     d="m 645.46892,412.37384 h 131.71435 c 8.05719,0 14.59021,6.53284 14.59021,14.59043 v 1.93966 c 0,29.90497 -24.24231,54.14704 -54.14728,54.14704 H 599.81444 v -45.74549 z"
-     id="path70" />
-  <linearGradient
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(0.99999656,0,0,1.0000034,52.303456,0.331769)"
-     y2="732.42871"
-     y1="395.43298"
-     x2="493.61118"
-     x1="656.45782"
-     spreadMethod="pad"
-     id="Path_233_bc">
-    <stop
-       id="stop72"
-       stop-opacity="1"
-       stop-color="#52c743"
-       offset="0.0012" />
-    <stop
-       id="stop74"
-       stop-opacity="1"
-       stop-color="#009b73"
-       offset="1" />
-  </linearGradient>
-  <path
-     style="fill:url(#Path_233_bc)"
-     d="m 645.09678,412.37384 c -63.58605,0 -115.33007,51.74405 -115.33007,115.33032 0,63.60071 51.74402,115.33149 115.33007,115.33149 15.08313,0 29.49793,-2.91425 42.71723,-8.21686 23.49933,-9.38275 43.21527,-26.31305 56.13782,-47.7641 10.46307,-17.34277 16.47509,-37.65704 16.47509,-59.35053 0,-63.58627 -51.74408,-115.33032 -115.33014,-115.33032 z m 0,159.58447 c -24.39349,0 -44.25292,-19.85949 -44.25292,-44.25415 0,-24.39349 19.85943,-44.25299 44.25292,-44.25299 24.3935,0 44.25275,19.8595 44.25275,44.25299 0,4.00922 -0.53961,7.89026 -1.53552,11.57142 -5.10278,18.80712 -22.33173,32.68273 -42.71723,32.68273 z"
-     id="path77" />
-  <linearGradient
-     gradientUnits="userSpaceOnUse"
-     gradientTransform="matrix(1.1491626,0,0,0.8701989,52.303456,44.331769)"
-     y2="631.28217"
-     y1="807.51465"
-     x2="557.59802"
-     x1="453.22342"
-     spreadMethod="pad"
-     id="Path_234_be">
-    <stop
-       id="stop79"
-       stop-opacity="1"
-       stop-color="#52c743"
-       offset="0.0012" />
-    <stop
-       id="stop81"
-       stop-opacity="1"
-       stop-color="#009b73"
-       offset="1" />
-  </linearGradient>
-  <path
-     style="fill:url(#Path_234_be)"
-     d="m 760.33195,650.92768 c -2.36572,58.95526 -49.62646,107.05697 -108.53375,110.40907 -66.61145,3.7881 -122.03149,-49.33461 -122.03149,-115.14021 0,-8.02015 0.82837,-15.85022 2.4013,-23.40955 1.53162,-7.36408 10.65876,-9.86615 15.8006,-4.3764 13.50458,14.41772 30.17383,25.83819 48.89411,33.14337 2.69604,1.05072 4.74682,3.31176 5.49658,6.10693 5.41363,20.15918 24.73205,34.6828 47.00238,32.58777 20.19684,-1.901 36.72674,-17.68152 39.5473,-37.76978 0.41101,-2.9331 0.52747,-5.81921 0.37872,-8.63446 -0.29553,-5.57806 2.70703,-10.83661 7.69379,-13.35583 19.45514,-9.82892 35.76678,-25.02948 46.97034,-43.62769 11.21923,18.59821 17.32245,40.59656 16.38012,64.06678 z"
-     id="path84" />
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg86" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 265.6 349"
+	 style="enable-background:new 0 0 265.6 349;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+</style>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="269.8287" y1="12.924" x2="85.5342" y2="355.9539">
+		<stop  offset="0" style="stop-color:#00C18E"/>
+		<stop  offset="1" style="stop-color:#26CF54"/>
+	</linearGradient>
+	<circle class="st0" cx="114.7" cy="301.7" r="47.3"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="192.5302" y1="-28.605" x2="8.2357" y2="314.4249">
+		<stop  offset="0" style="stop-color:#00C18E"/>
+		<stop  offset="1" style="stop-color:#26CF54"/>
+	</linearGradient>
+	<path class="st1" d="M254.8,0H114.7v0C51.4,0.3,0,51.9,0,115.2c0,15.3,3,30,8.5,43.3c11.3,27.6,33,50,60.2,62
+		c2.7,1.2,5.4,2.3,8.2,3.3c0.9,0.3,1.9,0.6,2.8,1c1.8,0.6,3.6,1.1,5.5,1.6c0.9,0.3,1.9,0.5,2.9,0.7c2.9,0.7,5.8,1.3,8.7,1.8
+		c2,0.3,3.9,0.6,5.9,0.8c0.7,0.1,1.5,0.2,2.2,0.2c0.3,0,0.6,0.1,0.9,0.1c1,0.1,1.9,0.1,2.9,0.2c1,0.1,2,0.1,3,0.1c1,0,2,0.1,3.1,0.1
+		c0.2,0,0.4,0,0.6,0c16.6,0,32.4-3.5,46.6-9.9c0.9-0.4,1.7-0.8,2.6-1.2c24.8-11.8,44.7-32.1,55.9-57.1c0.6-1.2,1.1-2.5,1.6-3.7
+		c5.5-13.4,8.5-28,8.5-43.3c0-18-4.2-35-11.5-50.2h0.8c6.2,0,12.1-1.2,17.5-3.5c16.6-6.9,28.4-23.3,28.4-42.4v-8.3
+		C265.6,4.8,260.8,0,254.8,0z M132.9,162.4c-5.5,2.1-11.4,3.2-17.7,3.2c-27.8,0-50.3-22.5-50.3-50.3c0-27.8,22.5-50.3,50.3-50.3
+		c24.4,0,44.7,17.3,49.3,40.4c0.6,3.2,1,6.6,1,10C165.6,136.8,152,155.2,132.9,162.4z"/>
+</g>
 </svg>
